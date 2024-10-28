@@ -9,7 +9,7 @@ This blog post demonstrates how to build a Python-powered resume parser to extra
 
 - **Name, Contact Number, and Email**: Basic contact info extracted accurately using NLP and regex.
 - **Skills**: Match specific technical skills from a customizable list.
-- **Education & College Name**: Detects degrees and educational institutions.
+- **Education & College Name**: Detects educational degrees.
 - **Designation and Work Experience**: Captures relevant job titles and experience length.
 - **Page Count**: Determines the number of pages, useful for filtering lengthy resumes.
 
