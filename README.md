@@ -17,7 +17,11 @@ By the end, you’ll have a functioning resume parser that can integrate with yo
 
 Through this guide, you’ll gain insights into combining NLP, regex, and text extraction libraries to automate resume parsing for hiring workflows, saving hours of manual effort.
 
+# Sample Data:
+
 <img width="417" alt="image" src="https://github.com/user-attachments/assets/4e36997e-0a70-4d5d-9850-07455b315161">
+
+# Output:
 
 <img width="551" alt="image" src="https://github.com/user-attachments/assets/1c288134-4fc2-4dea-a9d4-33f52edb0758">
 
