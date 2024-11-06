@@ -16,3 +16,8 @@ This blog post demonstrates how to build a Python-powered resume parser to extra
 By the end, you’ll have a functioning resume parser that can integrate with your hiring platform, making it easier to sort through applicants efficiently. Whether you’re a recruiter or developer, this project can save time and enhance your hiring workflow.
 
 Through this guide, you’ll gain insights into combining NLP, regex, and text extraction libraries to automate resume parsing for hiring workflows, saving hours of manual effort.
+
+<img width="417" alt="image" src="https://github.com/user-attachments/assets/4e36997e-0a70-4d5d-9850-07455b315161">
+
+<img width="551" alt="image" src="https://github.com/user-attachments/assets/1c288134-4fc2-4dea-a9d4-33f52edb0758">
+
